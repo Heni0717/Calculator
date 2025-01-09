@@ -13,7 +13,7 @@
 
 ---
 ### 개발 프로세스
-&nbsp;▶️ 개발 환경 : <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flatsquare&logo=intellijidea&logoColor="/> <img src="https://img.shields.io/badge/JDK 17-0174DF?style=flatsquare&logo=로고&logoColor="/>
+&nbsp;▶️ 개발 환경 : <img src="https://img.shields.io/badge/IntelliJ IDEA-000000?style=flatsquare&logo=intellijidea&logoColor="/> <img src="https://img.shields.io/badge/JDK 17-0174DF?style=flatsquare&logo=&logoColor="/>
 
 &nbsp;▶️ 요구사항
 - 필요기능 정의
@@ -69,7 +69,7 @@
 ---
 ### 트러블 슈팅
 
-- <a href="">이것은 트러블 슈팅을 작성한 TIL 링크</a>
+- <a href="https://heni0717.tistory.com/8">TIL 링크</a>
 ---
 ### 자체 평가
 &nbsp;▶️ 완성도
