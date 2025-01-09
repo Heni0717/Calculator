@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=slice&color=F8E0E6&height=200&section=header&text=Calculator%20&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=F8E0E6&height=200&section=header&text=Calculator%20&fontSize=70)
 
 ---
 ## [Spring 5기] CH2 계산기 과제
@@ -89,4 +89,4 @@
 - [ ] 커밋 컨벤션을 지킨 커밋 10회 이상
 
 ---
-![footer](https://capsule-render.vercel.app/api?type=slice&color=F8E0E6&height=200&section=footer&text=&fontSize=)
+![footer](https://capsule-render.vercel.app/api?type=transparent&color=F8E0E6&height=200&section=footer&text=&fontSize=)
